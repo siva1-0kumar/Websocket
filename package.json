@@ -1,0 +1,13 @@
+{
+  "name": "node-websocket-middleware",
+  "version": "1.0.0",
+  "description": "Basic Node.js WebSocket middleware server",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.18.2"
+  }
+}
